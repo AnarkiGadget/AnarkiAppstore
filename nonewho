@@ -1,4 +1,9 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 1
+http://syok.tv:25461/live/010820230919/abcd1234/1.m3u8
+
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 1
 http://syok.tv:25461/live/010820230919/abcd1234/1.m3u8
 
@@ -8,10 +13,40 @@ http://syok.tv:25461/live/010820230919/abcd1234/3.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 3
 http://syok.tv:25461/live/010820230919/abcd1234/5.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",RIA (A)
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",NTV 7
+http://syok.tv:25461/live/010820230919/abcd1234/8.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",8TV
+http://syok.tv:25461/live/010820230919/abcd1234/10.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",9
+http://syok.tv:25461/live/010820230919/abcd1234/12.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Tv
+http://syok.tv:25461/live/010820230919/abcd1234/14.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Drama Sangat
+http://syok.tv:25461/live/010820230919/abcd1234/15.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Awesome TV
+http://syok.tv:25461/live/010820230919/abcd1234/16.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Ria [A]
 http://syok.tv:25461/live/010820230919/abcd1234/18.m3u8
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",RIA (B)
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Ria [B]
 http://syok.tv:25461/live/010820230919/abcd1234/19.m3u8
-
-
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Prima [A]
+http://syok.tv:25461/live/010820230919/abcd1234/20.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Prima [B]
+http://syok.tv:25461/live/010820230919/abcd1234/21.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Warna [A]
+http://syok.tv:25461/live/010820230919/abcd1234/22.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Warna [B]
+http://syok.tv:25461/live/010820230919/abcd1234/23.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Oasis
+http://syok.tv:25461/live/010820230919/abcd1234/25.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Citra
+http://syok.tv:25461/live/010820230919/abcd1234/26.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Rania
+http://syok.tv:25461/live/010820230919/abcd1234/27.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Aura
+http://syok.tv:25461/live/010820230919/abcd1234/28.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro BOO
+http://syok.tv:25461/live/010820230919/abcd1234/29.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TVS
+http://syok.tv:25461/live/010820230919/abcd1234/30.m3u8
