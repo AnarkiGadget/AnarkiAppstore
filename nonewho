@@ -1,7 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://live.staticflickr.com/774/22026429475_88f8c21df2_z.jpg" group-title="Malaysia",TV 1
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 1
 http://syok.tv:25461/live/010820230919/abcd1234/1.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="News",Astro Awani SD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 2
+http://syok.tv:25461/live/010820230919/abcd1234/3.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 3
+http://syok.tv:25461/live/010820230919/abcd1234/5.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",RIA (A)
+http://syok.tv:25461/live/010820230919/abcd1234/18.m3u8
+
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",RIA (A)
+http://syok.tv:25461/live/010820230919/abcd1234/19.m3u8
+
 
