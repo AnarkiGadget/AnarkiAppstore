@@ -10,14 +10,16 @@ http://syok.tv:25461/live/010820230919/abcd1234/1.m3u8
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - B (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/2.m3u8
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S1)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/2
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2(a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S1)
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2(a)" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S2)
 http://iptv12k.com:35461/175030801012/766543/10014
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2(a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - B (S1)
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2(a)" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - B (S2)
 http://iptv12k.com:35461/175030801012/766543/741
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 2
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/3.m3u8
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - B (S3)
+http://syok.tv:25461/live/010820230919/abcd1234/4.m3u8
 
 
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TV 3
