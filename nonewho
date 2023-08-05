@@ -20,8 +20,16 @@ http://iptv12k.com:35461/175030801012/766543/19801
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/5.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",NTV 7
+#EXTINF:-1 tvg-id="" tvg-name="TV6 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 (S2)
+http://iptv12k.com:35461/175030801012/766543/4142
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",TV6 (S3)
+http://syok.tv:25461/live/010820230919/abcd1234/5516.m3u8
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 (S2)
+http://iptv12k.com:35461/175030801012/766543/739
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",NTV7 (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/8.m3u8
+
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",8TV
 http://syok.tv:25461/live/010820230919/abcd1234/10.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",9
@@ -57,5 +65,6 @@ http://syok.tv:25461/live/010820230919/abcd1234/29.m3u8
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TVS
 http://syok.tv:25461/live/010820230919/abcd1234/30.m3u8
 
-#EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena - A (S1)
+#EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena (S1)
 http://31.42.187.37:25461/watchpad2944/1234/286
+
