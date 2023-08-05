@@ -30,40 +30,7 @@ http://iptv12k.com:35461/175030801012/766543/739
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",NTV7 (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/8.m3u8
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",8TV
-http://syok.tv:25461/live/010820230919/abcd1234/10.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",9
-http://syok.tv:25461/live/010820230919/abcd1234/12.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Tv
-http://syok.tv:25461/live/010820230919/abcd1234/14.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Drama Sangat
-http://syok.tv:25461/live/010820230919/abcd1234/15.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Awesome TV
-http://syok.tv:25461/live/010820230919/abcd1234/16.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Ria [A]
-http://syok.tv:25461/live/010820230919/abcd1234/18.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Ria [B]
-http://syok.tv:25461/live/010820230919/abcd1234/19.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Prima [A]
-http://syok.tv:25461/live/010820230919/abcd1234/20.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Prima [B]
-http://syok.tv:25461/live/010820230919/abcd1234/21.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Warna [A]
-http://syok.tv:25461/live/010820230919/abcd1234/22.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Warna [B]
-http://syok.tv:25461/live/010820230919/abcd1234/23.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Oasis
-http://syok.tv:25461/live/010820230919/abcd1234/25.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Citra
-http://syok.tv:25461/live/010820230919/abcd1234/26.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Rania
-http://syok.tv:25461/live/010820230919/abcd1234/27.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro Aura
-http://syok.tv:25461/live/010820230919/abcd1234/28.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",Astro BOO
-http://syok.tv:25461/live/010820230919/abcd1234/29.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="" group-title="Malaysia",TVS
-http://syok.tv:25461/live/010820230919/abcd1234/30.m3u8
+
 
 #EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena (S1)
 http://31.42.187.37:25461/watchpad2944/1234/286
