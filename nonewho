@@ -25,13 +25,45 @@ http://iptv12k.com:35461/175030801012/766543/4142
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/5516.m3u8
 
+#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",NTV7 (S1)
+http://31.42.187.37:25461/watchpad2944/1234/115
 #EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",NTV7 (S2)
 http://iptv12k.com:35461/175030801012/766543/739
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",NTV7 (S3)
 http://syok.tv:25461/live/010820230919/abcd1234/8.m3u8
 
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="Malaysia (MY)",TV9 (S1)
+http://31.42.187.37:25461/watchpad2944/1234/116
+
 
 
 #EXTINF:-1 tvg-id="235.astro" tvg-name="Arena" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena (S1)
 http://31.42.187.37:25461/watchpad2944/1234/286
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena (S2)
+http://iptv12k.com:35461/175030801012/766543/688
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena 1(b)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena (S3)
+http://syok.tv:25461/live/010820230919/abcd1234/121.m3u8
+
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Super Sport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Super Sport 1 HD (S1)
+http://31.42.187.37:25461/watchpad2944/1234/114
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports"",Astro Super Sport 1 HD (S2)
+http://iptv12k.com:35461/175030801012/766543/972
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Super Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Super Sport 2 HD (S1)
+http://31.42.187.37:25461/watchpad2944/1234/113
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports"",Astro Super Sport 2 HD (S2)
+http://iptv12k.com:35461/175030801012/766543/971
+
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Super Sport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sport 3 HD (S1)
+http://31.42.187.37:25461/watchpad2944/1234/112
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sport 3 HD (S2)
+http://iptv12k.com:35461/175030801012/766543/970
+
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Super Sport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sport 4 HD (S1)
+http://31.42.187.37:25461/watchpad2944/1234/111
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Super Sport 4 HD (S2)
+http://iptv12k.com:35461/175030801012/766543/969
+
+
+
 
