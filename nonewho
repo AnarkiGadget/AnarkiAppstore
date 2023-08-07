@@ -93,6 +93,13 @@ http://iptv12k.com:35461/175030801012/766543/737
 #EXTINF:-1 tvg-id="" tvg-name="tv9(my)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S3)
 http://iptv12k.com:35461/175030801012/766543/10210
 
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM FHD" tvg-logo="https://lo1.in/MALAY/BERITARTM.png" group-title="AS | MALAYSIA",MY| BERITA RTM FHD
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29632
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM HD" tvg-logo="https://lo1.in/MALAY/BERITARTM.png" group-title="AS | MALAYSIA",MY| BERITA RTM HD
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29631
+
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" group-title="Malay",Okey
+http://31.42.187.37:25461/watchpad2944/1234/3282
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SUKAN RTM FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Sports",RTM Sports - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29630
@@ -186,12 +193,43 @@ http://iptv12k.com:35461/175030801012/766543/3949
 
 #EXTINF:-1 tvg-id="tvsukan.my" tvg-name="MY| TVS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200328
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29545
 #EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/38
 
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - A (S1) 
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200777
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV FHD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - B (S1) 
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/5232
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - A (S2) 
+http://31.42.187.37:25461/watchpad2944/1234/340
 
 #EXTINF:-1 tvg-id="201" tvg-name="VELLITHIRAI" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Vellithirai.png" group-title="Malaysia (MY)",Vellithirai - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/85
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| ABO MOVIE THANGAT HIRAI HD" tvg-logo="https://lo1.in/MALAY/astrobo.png" group-title="Malaysia (MY)",ABO Movies Thangathirai - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191838
+#EXTINF:-1 tvg-id="177.astro" tvg-name="ABO Movies Thangathirai(testing)" tvg-logo="https://lo1.in/MALAY/astrobo.png" group-title="Malaysia (MY)",ABO Movies Thangathirai - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/2967
+
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Malaysia (MY)",AEC - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/7
+#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC ASTRO(a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Malaysia (MY)",AEC - A (S3)
+http://iptv12k.com:35461/175030801012/766543/4341
+#EXTINF:-1 tvg-id="AEC.my" tvg-name="AEC(b)ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Malaysia (MY)",AEC - B (S3)
+http://iptv12k.com:35461/175030801012/766543/709
+#EXTINF:-1 tvg-id="" tvg-name="AEC ASTRO(a) my2 tou" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="Malaysia (MY)",AEC - C (S3)
+http://iptv12k.com:35461/175030801012/766543/13597
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 351" tvg-logo="http://kingtv.dynu.com/tvlogo/AOD.png" group-title="Malaysia (MY)",AOD 351
+http://31.42.187.37:25461/watchpad2944/1234/11
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 352" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png" group-title="Malaysia (MY)",AOD 352
+http://31.42.187.37:25461/watchpad2944/1234/12
+
+#EXTINF:-1 tvg-id="" tvg-name="Astro AOD 353" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/65_144.png" group-title="Malaysia (MY)",AOD 353
+http://31.42.187.37:25461/watchpad2944/1234/13
 
 #EXTINF:-1 tvg-id="boo.my" tvg-name="MY| ASTRO BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia (MY)",Boo - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200333
@@ -202,11 +240,49 @@ http://31.42.187.37:25461/watchpad2944/1234/1572
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Malaysia (MY)",Boo - A (S3)
 http://iptv12k.com:35461/175030801012/766543/722
 
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="Movies",[ID] HBO - A (S3)
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FHD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[MY] HBO HD - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29599
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="MY| HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[MY] HBO HD - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191943
+#EXTINF:-1 tvg-id="143.astro" tvg-name="MY HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[MY] HBO HD - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/47
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[MY] HBO HD - A (S3)
+http://iptv12k.com:35461/175030801012/766543/599
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[ID] HBO - A (S3)
 http://iptv12k.com:35461/175030801012/766543/1748
 
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Movies",[ID] HBO Family - A (S3)
+#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29570
+#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251885
+#EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/28
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FAMILY FHD" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="Movies",[MY] HBO FAMILY - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29597
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FAMILY HD" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="Movies",[MY] HBO FAMILY - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251886
+#EXTINF:-1 tvg-id="450.astro" tvg-name="HBO Family" tvg-logo="http://kingtv.dynu.com/tvlogo/HBO_Family.png" group-title="Movies",[ID] HBO FAMILY - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/2442
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="Movies",[ID] HBO FAMILY HD - A (S3)
+http://iptv12k.com:35461/175030801012/766543/597
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Movies",[ID] HBO Family - B (S3)
 http://iptv12k.com:35461/175030801012/766543/1746
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO HITS FHD" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",[MY] HBO Hits - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29598
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO HITS HD" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",[MY] HBO Hits - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251887
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",[ID] HBO Hits - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/3042
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",[ID] HBO Hits - A (S3)
+http://iptv12k.com:35461/175030801012/766543/598
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Malaysia(MY)",[ID] HBO Hits - A (S3)
+http://iptv12k.com:35461/175030801012/766543/596
+
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/376263
@@ -222,6 +298,20 @@ http://iptv12k.com:35461/175030801012/766543/2289
 
 #EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/387767
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CERIA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29656
+#EXTINF:-1 tvg-id="astroceria.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191860
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/84
+
+#EXTINF:-1 tvg-id="" tvg-name="MY| PRIMETIME  FHD" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29575
+#EXTINF:-1 tvg-id="" tvg-name="MY| PRIMETIME HD" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251888
+#EXTINF:-1 tvg-id="" tvg-name="PRIMETIME" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/4082
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191853
@@ -242,32 +332,68 @@ http://31.42.187.37:25461/watchpad2944/1234/336
 http://iptv12k.com:35461/175030801012/766543/13547
 #EXTINF:-1 tvg-id="" tvg-name="Arena 2 (b)SPORTS Astro " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena 2 - B (S3)
 http://iptv12k.com:35461/175030801012/766543/10971
+#EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena 2 - C (S3)
+http://iptv12k.com:35461/175030801012/766543/20681
 
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Sports",Arena Bola - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20627
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena1 Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Sports",Arena Bola - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20630
 
 #EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2 (testing)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/332
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2 Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20629
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20628
 
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Super Sport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - A (S1)
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/7841
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT 1 FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191869
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - C (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/6590
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 HEVC" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - D (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/6591
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Super Sport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/114
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",ASSP 1 - A (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",ASSP 1 - A (S3)
 http://iptv12k.com:35461/175030801012/766543/972
 
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Super Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - A (S1)
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 2 4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/7840
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY| ASTRO SUPERSPORT 2 FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191870
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - C (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/6589
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Super Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/113
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",ASSP 2 - A (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",ASSP 2 - A (S3)
 http://iptv12k.com:35461/175030801012/766543/971
 
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Super Sport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S1)
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY| ASTRO SUPERSPORT 3 FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191871
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/6588
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Super Sport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/112
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S3)
 http://iptv12k.com:35461/175030801012/766543/970
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Super Sport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP 4 - A (S1)
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP 4 - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191872
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP 4 - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/6592
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Super Sport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP 4 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/111
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",ASSP 4 - A (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",ASSP 4 - A (S3)
 http://iptv12k.com:35461/175030801012/766543/969
 
 
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT PLUS FHD" tvg-logo="https://lo1.in/MALAY/assplus.png" group-title="Sports",ASSP PLUS - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29666
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT PLUS HD" tvg-logo="https://lo1.in/MALAY/assplus.png" group-title="Sports",ASSP PLUS - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29665
 
 
 
