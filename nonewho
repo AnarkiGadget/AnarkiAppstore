@@ -117,7 +117,7 @@ http://iptv12k.com:35461/175030801012/766543/13630
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191867
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RIA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia (MY)",RIA - B (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79321
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Ria_HD.png" group-title="Malaysia (MY)",RIA - A (S2)
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",RIA - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/68
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia (MY)",RIA (S3)
 http://31.42.187.37:25461/watchpad2944/1234/68
