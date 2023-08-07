@@ -247,24 +247,24 @@ http://iptv12k.com:35461/175030801012/766543/10971
 #EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2 (testing)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/332
 
-#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Super Sport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",Astro Super Sport 1 HD (S1)
+#EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Super Sport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/114
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro Super Sport 1 HD (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="]ASSP1(c) Astro Supersports Premier League 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",ASSP 1 - A (S2)
 http://iptv12k.com:35461/175030801012/766543/972
 
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Super Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",Astro Super Sport 2 HD (S1)
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Super Sport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="Sports",ASSP 2 - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/113
-#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",Astro Super Sport 2 HD (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="ASSP2(c) Astro Supersports Premier League 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",ASSP 2 - A (S2)
 http://iptv12k.com:35461/175030801012/766543/971
 
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Super Sport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sport 3 HD (S1)
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="Astro Super Sport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/112
-#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",Astro Super Sport 3 HD (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="ASSP3(e)Astro Supersports Premier League 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="Sports",ASSP 3 - A (S2)
 http://iptv12k.com:35461/175030801012/766543/970
 
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Super Sport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",Astro Super Sport 4 HD (S1)
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="Astro Super Sport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="Sports",ASSP 4 - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/111
-#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro Super Sport 4 HD (S2)
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="ASSP4(c)Astro Supersports Premier 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",ASSP 4 - A (S2)
 http://iptv12k.com:35461/175030801012/766543/969
 
 
