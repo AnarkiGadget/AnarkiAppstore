@@ -197,13 +197,19 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200328
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29545
 #EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/38
+#EXTINF:-1 tvg-id="FTVSatellite.tw" tvg-name="TVS" ttvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S3)
+http://iptv12k.com:35461/175030801012/766543/745
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - A (S1) 
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - A (S1) 
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200777
-#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV FHD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - B (S1) 
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - B (S1) 
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/5232
-#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="Malaysia (MY)",AWESOME TV - A (S2) 
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - A (S2) 
 http://31.42.187.37:25461/watchpad2944/1234/340
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - A (S3) 
+http://iptv12k.com:35461/175030801012/766543/743
+#EXTINF:-1 tvg-id="" tvg-name="AWESOME(b)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - B (S3) 
+http://iptv12k.com:35461/175030801012/766543/10353
 
 #EXTINF:-1 tvg-id="201" tvg-name="VELLITHIRAI" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Vellithirai.png" group-title="Malaysia (MY)",Vellithirai - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/85
@@ -251,13 +257,18 @@ http://iptv12k.com:35461/175030801012/766543/599
 #EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[ID] HBO - A (S3)
 http://iptv12k.com:35461/175030801012/766543/1748
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - A (S1)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29570
-#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - B (S1)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251885
+
 #EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/28
 
+#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/454_144.png" group-title="Movies",Showcase - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29570
+#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Showcase - B (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251885
+#EXTINF:-1 tvg-id="454.astro" tvg-name="SHOWCASE MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Showcase - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/4314
+#EXTINF:-1 tvg-id="" tvg-name="My-Showcase Movies my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",Showcase - A (S3)
+http://iptv12k.com:35461/175030801012/766543/13437
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| HBO FAMILY FHD" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="Movies",[MY] HBO FAMILY - A (S1)
@@ -280,7 +291,7 @@ http://31.42.187.37:25461/watchpad2944/1234/3042
 #EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",[ID] HBO Hits - A (S3)
 http://iptv12k.com:35461/175030801012/766543/598
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Malaysia(MY)",[ID] HBO Hits - A (S3)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Malaysia(MY)",[ID] HBO Signature - A (S3)
 http://iptv12k.com:35461/175030801012/766543/596
 
 
