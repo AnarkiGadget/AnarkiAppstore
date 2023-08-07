@@ -316,6 +316,10 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29656
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191860
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Ceria" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/84
+#EXTINF:-1 tvg-id="Ceria.my" tvg-name="ASTRO Ceria (a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20064
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ceria(c)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - B (S3)
+http://iptv12k.com:35461/175030801012/766543/20679
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| PRIMETIME  FHD" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29575
