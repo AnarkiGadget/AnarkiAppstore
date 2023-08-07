@@ -93,12 +93,12 @@ http://iptv12k.com:35461/175030801012/766543/737
 #EXTINF:-1 tvg-id="" tvg-name="tv9(my)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S3)
 http://iptv12k.com:35461/175030801012/766543/10210
 
-#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM FHD" tvg-logo="https://lo1.in/MALAY/BERITARTM.png" group-title="AS | MALAYSIA",MY| BERITA RTM FHD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM FHD" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",BERITA RTM - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29632
-#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM HD" tvg-logo="https://lo1.in/MALAY/BERITARTM.png" group-title="AS | MALAYSIA",MY| BERITA RTM HD
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM HD" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",BERITA RTM - B (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29631
 
-#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" group-title="Malay",Okey
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S1)
 http://31.42.187.37:25461/watchpad2944/1234/3282
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SUKAN RTM FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Sports",RTM Sports - A (S1)
