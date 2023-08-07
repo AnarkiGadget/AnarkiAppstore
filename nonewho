@@ -37,6 +37,8 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200329
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400437966
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/3
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S3)
+http://31.42.187.37:25461/watchpad2944/1234/2308
 #EXTINF:-1 tvg-id="" tvg-name="TV3(d) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S3)
 http://iptv12k.com:35461/175030801012/766543/13647
 #EXTINF:-1 tvg-id="" tvg-name="TV3(a) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S3)
@@ -50,6 +52,8 @@ http://iptv12k.com:35461/175030801012/766543/13644
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29554
 #EXTINF:-1 tvg-id="" tvg-name="MY| TV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - B  (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29553
+#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A  (S2)
+http://31.42.187.37:25461/watchpad2944/1234/3280
 #EXTINF:-1 tvg-id="" tvg-name="TV6 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A  (S2)
 http://iptv12k.com:35461/175030801012/766543/4142
 
@@ -204,6 +208,20 @@ http://iptv12k.com:35461/175030801012/766543/1748
 #EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Movies",[ID] HBO Family - A (S3)
 http://iptv12k.com:35461/175030801012/766543/1746
 
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/376263
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (testing)" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S2)
+http://31.42.187.37:25461/watchpad2944/1234/4026
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="SONY PIX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S3)
+http://iptv12k.com:35461/175030801012/766543/8578
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/187267
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S3)
+http://iptv12k.com:35461/175030801012/766543/2289
+
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Select Movies - A (S1)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/387767
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191853
