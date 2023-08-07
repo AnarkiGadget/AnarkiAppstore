@@ -68,6 +68,15 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192003
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79324
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - C (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191836
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - C (S1)
+http://31.42.187.37:25461/watchpad2944/1234/4
+#EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV(a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S3)
+http://iptv12k.com:35461/175030801012/766543/738
+#EXTINF:-1 tvg-id="" tvg-name="8TV(b)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - B (S3)
+http://iptv12k.com:35461/175030801012/766543/10992
+#EXTINF:-1 tvg-id="" tvg-name="8TV(my)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - C (S3)
+http://iptv12k.com:35461/175030801012/766543/19800
+
 
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192004
@@ -75,6 +84,11 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192004
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79323
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/116
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9(a)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S3)
+http://iptv12k.com:35461/175030801012/766543/737
+#EXTINF:-1 tvg-id="" tvg-name="tv9(my)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S3)
+http://iptv12k.com:35461/175030801012/766543/10210
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| SUKAN RTM FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Sports",RTM Sports - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29630
@@ -82,12 +96,15 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29630
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29629
 #EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Sports",RTM Sports - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/2465
+#EXTINF:-1 tvg-id="" tvg-name="RTM sport " tvg-logo="http://kingtv.dynu.com/tvlogo/Rtmhdsports.png" group-title="Sports",RTM Sports - A (S3)
+http://iptv12k.com:35461/175030801012/766543/20656
+
 
 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="MY| ASTRO PRIMA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191865
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PRIMA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - A (S1)
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PRIMA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - B (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400438338
-#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" vg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - A (S2)
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/65
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO Prima (a)  my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="Malaysia (MY)",PRIMA - A (S3)
 http://iptv12k.com:35461/175030801012/766543/13632
@@ -104,11 +121,11 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79321
 http://31.42.187.37:25461/watchpad2944/1234/68
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia (MY)",RIA (S3)
 http://31.42.187.37:25461/watchpad2944/1234/68
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(a) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="Malaysia(MY2)",RIA - A (S3)
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(a) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png group-title="Malaysia (MY)",RIA - A (S3)
 http://iptv12k.com:35461/175030801012/766543/13636
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(b) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="Malaysia(MY2)",RIA - B (S3)
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Ria(b) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia (MY)",RIA - B (S3)
 http://iptv12k.com:35461/175030801012/766543/13635
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA(c) my2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="Malaysia(MY2)",RIA - C (S3)
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO RIA(c) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png" group-title="Malaysia (MY)",RIA - C (S3)
 http://iptv12k.com:35461/175030801012/766543/13634
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO OASIS FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malaysia (MY)",Oasis - A (S1)
