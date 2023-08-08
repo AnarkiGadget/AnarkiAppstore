@@ -5,24 +5,13 @@
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - B (S1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
-#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S2)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192001
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/1
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1(a) TV 1" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S4)
-http://iptv12k.com:35461/175030801012/766543/6505
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - B (S1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV2 FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S2)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79325
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/2
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2(a)" tvg-country="MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - A (S4)
-http://iptv12k.com:35461/175030801012/766543/10014
 
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S1)
@@ -95,7 +84,14 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29632
 #EXTINF:-1 tvg-id="" tvg-name="MY| BERITA RTM HD" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",BERITA RTM - B (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29631
 
-#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S1)
+#EXTINF:-1 tvg-id="" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S1)
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - B (S1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Okey" tvg-name="Okey" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/3282
 
 #EXTINF:-1 tvg-id="SukanRTM.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Sports",RTM Sports - A (S1)
@@ -257,7 +253,9 @@ http://iptv12k.com:35461/175030801012/766543/599
 #EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="Movies",[ID] HBO - A (S3)
 http://iptv12k.com:35461/175030801012/766543/1748
 
-
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",[MY] CINEMAX - A (S1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="337.astro" tvg-name="MY CINEMAX HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="Movies",[MY] CINEMAX - A (S2)
 http://31.42.187.37:25461/watchpad2944/1234/28
 
