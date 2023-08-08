@@ -348,11 +348,11 @@ http://iptv12k.com:35461/175030801012/766543/20627
 #EXTINF:-1 tvg-id="" tvg-name="Bola Arena1 Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Sports",Arena Bola - B (S4)
 http://iptv12k.com:35461/175030801012/766543/20630
 
-#EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2 (testing)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S3)
+#EXTINF:-1 tvg-id="487.astro" tvg-name="Arena Bola 2 (testing)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",Arena Bola 2 - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/332
-#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2 Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - A (S4)
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2 Sport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",Arena Bola 2 - A (S4)
 http://iptv12k.com:35461/175030801012/766543/20629
-#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena Bola 2 - B (S4)
+#EXTINF:-1 tvg-id="" tvg-name="Bola Arena2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="Sports",Arena Bola 2 - B (S4)
 http://iptv12k.com:35461/175030801012/766543/20628
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 4K" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="Sports",ASSP 1 - A (S2)
