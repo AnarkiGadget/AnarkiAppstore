@@ -40,7 +40,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S1)
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton2/index.m3u8?exp=1691509490&hmac=0xb5fb55f1bf1935882f004a84976eb1876660bc872fb7ee3a9c2d77ba9c97385c
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2.m3u8?exp=1691512485&hmac=0x5d13f4cb044c8de4096ef6289eb6f750c67981dc811f220eb01f5130dc196ccc
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191968
 
