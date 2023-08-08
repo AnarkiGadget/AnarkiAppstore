@@ -10,11 +10,9 @@ http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
 
-
-
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png" group-title="Malaysia (MY)",Enjoy TV5
 https://live.mana2.my/Tv5/index.m3u8?auth_key=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842&token=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842
-EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Suke TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png" group-title="Malaysia (MY)",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6&token=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S1)
