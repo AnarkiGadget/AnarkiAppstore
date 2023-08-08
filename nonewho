@@ -29,7 +29,7 @@ http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/158360
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200329
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png" group-title="Malaysia (MY)",Enjoy TV5
+#EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png" group-title="Malaysia (MY)",Enjoy TV5  - A (S1)
 https://live.mana2.my/Tv5/index.m3u8?auth_key=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842&token=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A (S1)
@@ -39,14 +39,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 
-
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S1)
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2/index.m3u8?exp=1691509490&hmac=0xb5fb55f1bf1935882f004a84976eb1876660bc872fb7ee3a9c2d77ba9c97385c
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191968
 
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S1)
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3/index.m3u8?exp=1691509600&hmac=0x6b7d8ad430145861e4a297da13db7212cdd03cb5fa55b8dd8ee6dc2a5d0aed33
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8?exp=1691510302&hmac=0xe6a489af8bcb169023f1884e9560239fb74d85598f09c840f6a3e58278f9f2d4
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - B (S1)
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S2)
@@ -56,21 +55,16 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79324
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - C (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191836
 
-
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S1)
-http://198.16.100.90:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4.m3u8?exp=1691510389&hmac=0xfcd2f046fe5d8861b75c39f3ce2f83b9b0a813426e6c23619aa646fa4c7e509e
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S1)
+http://198.16.100.90:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - C (S1)
 http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/171953
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192004
 #EXTINF:-1 tvg-id="" tvg-name="MY| TV9 [BK] HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79323
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/116
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/25813.m3u8
-#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - B (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/912831.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://suketv.com/sitepad-data/uploads/2023/06/STV_WHITE-LOGO.png" group-title="Malaysia (MY)",Suke TV
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6&token=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6
@@ -170,6 +164,7 @@ http://31.42.187.37:25461/watchpad2944/1234/40
 #EXTINF:-1 tvg-id="400.astro" tvg-name="ASTRO AURA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="Malaysia (MY)",Aura - A (S4)
 https://ktpremium.com:443/live/080820230158/abcd1234/908357.m3u8
 
+
 #EXTINF:-1 tvg-id="tvsukan.my" tvg-name="MY| TVS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200328
 #EXTINF:-1 tvg-id="" tvg-name="MY| TVS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - B (S2)
@@ -179,7 +174,7 @@ http://31.42.187.37:25461/watchpad2944/1234/38
 #EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S4)
 https://ktpremium.com:443/live/080820230158/abcd1234/656643.m3u8
 
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="Malaysia (MY)",Dunia Sinema - A (S1) 
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="Malaysia (MY)",Dunia Sinema - A (S1) 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - A (S2) 
@@ -193,8 +188,6 @@ https://ktpremium.com:443/live/080820230158/abcd1234/25828.m3u8
 #EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - B (S4) 
 https://ktpremium.com:443/live/080820230158/abcd1234/912832.m3u8
 
-#EXTINF:-1,[MY] Dunia Sinema
-https://ktpremium.com:443/live/080820230158/abcd1234/910753.m3u8
 
 #EXTINF:-1 tvg-id="201" tvg-name="VELLITHIRAI" tvg-logo="http://kingtv.dynu.com/tvlogo/Astro_Vellithirai.png" group-title="Malaysia (MY)",Vellithirai - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/85
@@ -283,8 +276,6 @@ https://ktpremium.com:443/live/080820230158/abcd1234/916401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="Movies",HBO Hits - B (S4)
 https://ktpremium.com:443/live/080820230158/abcd1234/26077.m3u8
 
-#EXTINF:-1,HBO Signature
-https://ktpremium.com:443/live/080820230158/abcd1234/26080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S1)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67218
@@ -327,10 +318,6 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251888
 #EXTINF:-1 tvg-id="" tvg-name="PRIMETIME" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/4082
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="MOVIES",Rock Action (U*)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
-https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena - A (S1)
 http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/157485
@@ -357,6 +344,7 @@ http://iptv12k.com:35461/175030801012/766543/13547
 http://iptv12k.com:35461/175030801012/766543/10971
 #EXTINF:-1 tvg-id="" tvg-name="Astro Arena 2 " tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="Sports",Arena 2 - C (S4)
 http://iptv12k.com:35461/175030801012/766543/20681
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Bola Arena1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="Sports",Arena Bola - A (S4)
 http://iptv12k.com:35461/175030801012/766543/20627
@@ -424,9 +412,11 @@ http://iptv12k.com:35461/175030801012/766543/969
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-logo="",Test
 http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="",Test
 http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
 
+#EXTINF:-1 tvg-logo="",Test
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
