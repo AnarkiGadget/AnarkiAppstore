@@ -38,12 +38,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - B (S1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
+
+
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S1)
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2/index.m3u8?exp=1691509490&hmac=0xb5fb55f1bf1935882f004a84976eb1876660bc872fb7ee3a9c2d77ba9c97385c
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191968
 
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S1)
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3/index.m3u8?exp=1691509600&hmac=0x6b7d8ad430145861e4a297da13db7212cdd03cb5fa55b8dd8ee6dc2a5d0aed33
+#EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - B (S1)
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192003
@@ -51,12 +55,7 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/192003
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/79324
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - C (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191836
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/4
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/25812.m3u8
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV TV8" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - B (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/912830.m3u8
+
 
 #EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="Malaysia (MY)",TV9 - A (S1)
 http://198.16.100.90:8278/TV9/playlist.m3u8?tid=MC8C4966804449668044&ct=19249&tsum=8dae6f565fe19a1d8909d2f6b04ae2b7
