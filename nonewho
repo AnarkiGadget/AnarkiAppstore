@@ -28,8 +28,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 http://198.16.100.90:8278/TV2/playlist.m3u8?tid=MBFB5221296352212963&ct=19249&tsum=c67dd739f98d016c5553f838aad85446
 
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S1)
-http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8?exp=1691509156&hmac=0x5ec5be9e4f07b3a086242132766d7f0ce08d7e744ae56d1a1653561556dd21d0
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S1)
+http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - C (S1)
 http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/158360
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200329
