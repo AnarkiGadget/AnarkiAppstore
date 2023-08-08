@@ -30,7 +30,8 @@ http://iptv12k.com:35461/175030801012/766543/13649
 #EXTINF:-1 tvg-id="" tvg-name="TV2(b) my2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia (MY)",TV 2 - C (S3)
 http://iptv12k.com:35461/175030801012/766543/13648
 
-
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://i.imgur.com/bHcZgIo.png" group-title="Undefined",TV3 (720p) [Geo-blocked]
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200329
 #EXTINF:-1 tvg-id="" tvg-name="MY| TV3 [BK] HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S1)
