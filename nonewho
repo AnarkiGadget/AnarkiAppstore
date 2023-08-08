@@ -126,7 +126,7 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29654
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191864
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro OASIS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malaysia (MY)",Oasis - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/62
-##EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro OASIS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malaysia (MY)",Oasis - A (S4)
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro OASIS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Malaysia (MY)",Oasis - A (S4)
 https://ktpremium.com:443/live/080820230158/abcd1234/25864.m3u8
 
 
