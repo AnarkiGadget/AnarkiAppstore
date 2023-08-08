@@ -84,15 +84,12 @@ http://iptv12k.com:35461/175030801012/766543/10210
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",BERITA RTM - B (S1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",BERITA RTM - C (S1)
-https://ythls.onrender.com/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
-#EXTINF:-1 tvg-id="" tvg-logo="http://kingtv.dynu.com/tvlogo/TV_Okey_RTM.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - B (S1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" tvg-logo="https://www.rtm.gov.my/images/2020/05/14/berita-rtm.png" group-title="Malaysia (MY)",Okey RTM - B (S1)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png" group-title="Sports",RTM Sports - A (S1)
@@ -287,22 +284,26 @@ http://iptv12k.com:35461/175030801012/766543/598
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Malaysia (MY)",[ID] HBO Signature - A (S3)
 http://iptv12k.com:35461/175030801012/766543/596
 
-
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S1)
+#EXTINF:-1 tvg-id="" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S1)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67218
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="IN| SONY PIX FHD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/376263
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (testing)" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S2)
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix (testing)" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/4026
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="SONY PIX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S3)
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-name="SONY PIX HD" tvg-logo="http://kingtv.dynu.com/tvlogo/SonyPix.png" group-title="Movies",Sony Pix - A (S4)
 http://iptv12k.com:35461/175030801012/766543/8578
 
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S1)
-http://2hubs.ddns.net:25461/BabNour/telegrramm/67281?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - B (S1)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/187267
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S3)
+#EXTINF:-1 tvg-id="" tvg-name="IND - &Prive HD" tvg-logo="http://attp.ddns.net:25461/images/dddb2f5bec779148c589a134810b4faf.png" group-title="Movies",&Prive HD - A (S1)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67084
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S1)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67281
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S4)
 http://iptv12k.com:35461/175030801012/766543/2289
 
-#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select - A (S1)
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select - A (S1)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67281?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="starmoviesselecthd.in" tvg-name="IN| STAR MOVIES SELECT FHD" tvg-logo="https://lo1.in/ind/strmvse.png" group-title="Movies",Star Movies Select - B (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/387767
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CERIA FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Malaysia (MY)",Ceria - A (S1)
