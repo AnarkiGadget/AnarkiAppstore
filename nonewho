@@ -2,14 +2,6 @@
 
 
 
-http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
-
-
-http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
-
-http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -35,20 +27,7 @@ http://198.16.100.90:8278/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&ts
 http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/158360
 #EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200329
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV3 [BK] HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S2)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400437966
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/3
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S3)
-http://31.42.187.37:25461/watchpad2944/1234/2308
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - A (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/25810.m3u8
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - B (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/912827.m3u8
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - C (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/912828.m3u8
-#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 - D (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/694449.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png" group-title="Malaysia (MY)",Enjoy TV5
 https://live.mana2.my/Tv5/index.m3u8?auth_key=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842&token=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842
@@ -60,15 +39,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S1)
-http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/174695
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2/index.m3u8?exp=1691509490&hmac=0xb5fb55f1bf1935882f004a84976eb1876660bc872fb7ee3a9c2d77ba9c97385c
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S2)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191968
-#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S3)
-http://31.42.187.37:25461/watchpad2944/1234/115
-#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/25811.m3u8
-#EXTINF:-1 tvg-id="93.astro" tvg-name="DIDIK TV (NTV7)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - B (S4)
-https://ktpremium.com:443/live/080820230158/abcd1234/912829.m3u8
 
 #EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="Malaysia (MY)",TV8 - A (S1)
 http://198.16.100.90:8278/TV8/playlist.m3u8?tid=MBEB4776352347763523&ct=19249&tsum=3c51d752772cb0de53609d6df785438f
@@ -452,14 +425,9 @@ http://iptv12k.com:35461/175030801012/766543/969
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
+
+
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
+
+http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
