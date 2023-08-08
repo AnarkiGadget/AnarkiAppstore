@@ -2,13 +2,6 @@
 
 
 
-
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="MOVIES",Rock Action (U*)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
-https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
-
-
 http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8
 
 
@@ -17,54 +10,12 @@ http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="MOVIES",Dunia Sinemass
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
-https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES",Dunia Sinema
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
-#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES",test
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03-1080FHD.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png", TV1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png", TV2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
-https://aqfadtv.xyz/live/tv3/index.mpd
-
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.m3u8
 
 EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Enjoy TV5
-https://live.mana2.my/Mytv/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://telegra.ph/file/b768111e267bfaa490f29.png",ASTRO RIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/1004
-https://local.kpsvpn.com/index_1004.m3u8
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
-
-
-#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia (MY)",TV 3 test
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://headend-api.tonton.com.my/v100/imageHelper.php?id=6420323:378:CHANNEL:IMAGE:png&w=200&appID=TONTON",TV3
-https://live-xtra-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8|Referer=https://live-xtra-sg1.global.ssl.fastly.net/
+https://live.mana2.my/Tv5/index.m3u8?auth_key=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842&token=1691504771-96ac85267428455fa1fa8e4c89ebab7d-0-0c61ca995beee832d1a0965b43458842
+EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/logos/channel/logos/tv5.png",Suke TV
+https://live.mana2.my/SukeTv/index.m3u8?auth_key=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6&token=1691504623-c599031fb1b248c9a9aee4533f9dc1fc-0-7abbcc253c941e22f8566164025e86e6
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -255,6 +206,9 @@ http://31.42.187.37:25461/watchpad2944/1234/38
 #EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/TVS_Sarawak.jpg" group-title="Malaysia (MY)",TVS - A (S4)
 https://ktpremium.com:443/live/080820230158/abcd1234/656643.m3u8
 
+#EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="Malaysia (MY)",Dunia Sinema - A (S1) 
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - A (S2) 
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400200777
 #EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV FHD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="Malaysia (MY)",AWESOME TV - B (S2) 
@@ -399,6 +353,11 @@ http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29575
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/400251888
 #EXTINF:-1 tvg-id="" tvg-name="PRIMETIME" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="Malaysia (MY)",PRIMETIME - A (S3)
 http://31.42.187.37:25461/watchpad2944/1234/4082
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202212/20221211/20221211230555493f2h.png" group-title="MOVIES",Rock Action (U*)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/mewatch/rockaction
+https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 #EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="Sports",Arena - A (S1)
 http://aanax.com:8080/googleiptvex/8XsdD8qVstQhcjuy/157485
