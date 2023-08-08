@@ -34,14 +34,8 @@ http://iptv12k.com:35461/175030801012/766543/13644
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A (S1)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29554
-#EXTINF:-1 tvg-id="" tvg-name="MY| TV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - B  (S1)
-http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/29553
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="TV6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A  (S2)
-http://31.42.187.37:25461/watchpad2944/1234/3280
-#EXTINF:-1 tvg-id="" tvg-name="TV6 MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - A  (S2)
-http://iptv12k.com:35461/175030801012/766543/4142
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/TV6_RTM.png/150px-TV6_RTM.png" group-title="Malaysia (MY)",TV6 - B (S1)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
 #EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia (MY)",NTV7 - A (S1)
 http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/191968
