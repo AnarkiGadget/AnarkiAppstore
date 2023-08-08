@@ -296,8 +296,11 @@ http://iptv12k.com:35461/175030801012/766543/8578
 #EXTINF:-1 tvg-id="" tvg-name="IND - &Prive HD" tvg-logo="http://attp.ddns.net:25461/images/dddb2f5bec779148c589a134810b4faf.png" group-title="Movies",&Prive HD - A (S1)
 http://2hubs.ddns.net:25461/BabNour/telegrramm/67084
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S1)
-http://2hubs.ddns.net:25461/BabNour/telegrramm/67281
+#EXTINF:-1 tvg-id="" tvg-name="IND - &flix" tvg-logo="http://attp.ddns.net:25461/images/e0f8bc3db4d7c8f51eee2842f07648d1.png" group-title="Movies",&flix - A (S1)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67082
+
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="IN| STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S2)
+http://ayrgzmb.mexamo.xyz:80/2658136501/3851907138/187267
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES HD" tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg" group-title="Movies",Star Movies - A (S4)
 http://iptv12k.com:35461/175030801012/766543/2289
 
