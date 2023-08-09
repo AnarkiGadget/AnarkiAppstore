@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",test
+#EXTINF:-1 tvg-id="101" channel id="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",TV 1
 http://8.219.138.150:8885/streams/UoGkU8UYeAu3dpcGHXXA8YHXDfbIRSqqwD96yPx6IKn8cgDk6ZcbwVkkoKZx67Ds_OP29gIv7O9IaNGTzzTRMpflEch6XQulkIJvPMFsh3QQ6DoTXMhxPUKXVvO4NTeHH7iMaq4wILJmAPo8GC2tOGHbd5QoGVqZ3DhleRWhOAe92h0kfoQ23eszEYHExA2Sh89QtOaWqFRneP92bSNhsQ.m3u8?u=1691568379
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",test
+#EXTINF:-1 tvg-id="101" channel id="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",TV 1
 http://8.219.138.150:8885/streams/UoGkU8UYeAu3dpcGHXXA8YHXDfbIRSqqwD96yPx6IKndcJDfWwB3TvBXpCg13EjjxO8Injkye2FjMC0ggRfjpycEu00UR0BTZqqvKI_yYOdARFR-S85I99H_1M-s6egONT3TQ8VGV20R-cjJj4bpi47EylE6BGQotL-nmXJ8iC2BHlEUiLbJrKqCg_mvjlsx9B_VUQmWGoqoqooW2OY10w.m3u8?u=1691568379
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",test
-http://10.130.16.108:8889/stream/537225/Zulqarnain/d4459553d4455533d4441497e4978387d4a71597/0299e05b775397ce5f12e861d39fdd40/1342.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1280px-Test-Logo.svg.png" group-title="Malaysia (MY)",test
 http://8.219.138.150:8885/streams/UoGkU8UYeAu3dpcGHXXA8YHXDfbIRSqqwD96yPx6IKnaen2UFrAcAEnu1ygPkH1U4ImD1JFinRESX4eK_JDS19UqAtTS4SmfUHLozzzL-90exwZYACcpSWXiZbRPsvcxMAUmr-TAxaiuDXWcdbdkgt0kMMzMMVq_RyQO6t3uB1u5odNKdg8Xa4G4k-aouIyHVdLUfQkfqw2RcSBTQ_ap0A.m3u8?u=1691568379
