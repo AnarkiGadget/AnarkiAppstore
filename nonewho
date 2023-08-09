@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",test
+http://cdn.lemmovie.com/live/a8147f03-ce7c-483f-a437-1547aada6de5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",test
+http://cdn.lemmovie.com/live/6cb2bf39-dec4-42c4-93f6-48f4f6de8043.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia (MY)",TV 1 - A (S1)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
