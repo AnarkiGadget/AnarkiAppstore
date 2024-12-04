@@ -160,3 +160,18 @@ https://cdn09jtedge.indihometv.com/joss/133/hits/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8?c
 #EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 6
 https://cdn09jtedge.indihometv.com/joss/133/rockentertainment/index.m3u8?c
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9ba3e153ef8956d6e2b0684fcf74f58f&key=dbc28cb5c6426080f984a5b6d436bb30
+#EXTINF:-1 tvg-id="RCTI.id"tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="VISIONPLUS | Indonesia"group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] RCTIHD
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=88f6c7cbd793374cb5f12d7e26dcd63b&key=e82daa7c7bfb03d99327463fdbd37336
+#EXTINF:-1 tvg-id="GTV.id"tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="VISIONPLUS | Indonesia"group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] GTV HD
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=828e0aba9825c3546a2831e4c0c36f7f&key=f85d3dcd38981368ab3da597e97ebdcc
+#EXTINF:-1 tvg-id="MNCTV.id"tvg-logo="https://static.mncnow.id/images/channel/ba065727/a4fd.png" group-title="VISIONPLUS | Indonesia"group-logo="https://telegra.ph/file/97fc400f8406e7adae6f9.png",[NATIONAL TV] MNC TVHD
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|referer=https://www.visionplus.id/
