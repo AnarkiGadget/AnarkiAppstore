@@ -162,6 +162,25 @@ https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/133/rockentertainment/index.m3u8?c
 
 
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 11
+https://cdn09jtedge.indihometv.com/joss/194/rockentertainment/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 12
+https://cdn09jtedge.indihometv.com/joss/130/rockentertainment/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 13
+https://cdn09jtedge.indihometv.com/joss/133/rockentertainment/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 14
+https://cdn09jtedge.indihometv.com/joss/134/rockentertainment/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 15
+https://cdn09jtedge.indihometv.com/joss/194/rockaction/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 16
+https://cdn09jtedge.indihometv.com/joss/130/rockaction/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 17
+https://cdn09jtedge.indihometv.com/joss/133/rockaction/index.m3u8?c
+#EXTINF:-1 group-title="SHAREEXT@INDIHOME"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",test 18
+https://cdn09jtedge.indihometv.com/joss/134/rockaction/index.m3u8?c
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9fb04f58e4cb5da5990a7e114d73d31f:5c69dc6b7945168fadd6cb28e87b7e2d
 #EXTINF:-1 tvg-id="ts562" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",Movies Now HD
