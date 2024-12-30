@@ -12,11 +12,14 @@
 https://perfecttv.net:443/Perfecttv/Perfecttv/3#http://hotz.vip:2082/301220240138/abcd1234/18#http://hotz.vip:2082/301220240138/abcd1234/17#http://hotz.vip:2082/301220240138/abcd1234/19#http://hotz.vip:2082/301220240138/abcd1234/20
 
 #EXTINF:-1,MY: RIA TESTING 2
-https://perfecttv.net:443/Perfecttv/Perfecttv/3
-http://hotz.vip:2082/301220240138/abcd1234/18
-http://hotz.vip:2082/301220240138/abcd1234/17
-http://hotz.vip:2082/301220240138/abcd1234/19
-http://hotz.vip:2082/301220240138/abcd1234/20
+#https://perfecttv.net:443/Perfecttv/Perfecttv/3
+#http://hotz.vip:2082/301220240138/abcd1234/18
+#http://hotz.vip:2082/301220240138/abcd1234/17
+#http://hotz.vip:2082/301220240138/abcd1234/19
+#http://hotz.vip:2082/301220240138/abcd1234/20
+
+#EXTINF:-1,MY: RIA TESTING 3
+https://raw.githubusercontent.com/AnarkiGadget/AnarkiAppstore/refs/heads/main/ria
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
