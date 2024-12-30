@@ -18,6 +18,20 @@ https://perfecttv.net:443/Perfecttv/Perfecttv/3#http://hotz.vip:2082/30122024013
 #http://hotz.vip:2082/301220240138/abcd1234/19
 #http://hotz.vip:2082/301220240138/abcd1234/20
 
+#EXTINF:-1,MY: RIA TESTING 4
+https://perfecttv.net:443/Perfecttv/Perfecttv/3
+#http://hotz.vip:2082/301220240138/abcd1234/18
+#http://hotz.vip:2082/301220240138/abcd1234/17
+#http://hotz.vip:2082/301220240138/abcd1234/19
+#http://hotz.vip:2082/301220240138/abcd1234/20
+
+#EXTINF:-1,MY: RIA TESTING 4
+https://perfecttv.net:443/Perfecttv/Perfecttv/3
+http://hotz.vip:2082/301220240138/abcd1234/18
+http://hotz.vip:2082/301220240138/abcd1234/17
+http://hotz.vip:2082/301220240138/abcd1234/19
+http://hotz.vip:2082/301220240138/abcd1234/20
+
 #EXTINF:-1,MY: RIA TESTING 3
 https://raw.githubusercontent.com/AnarkiGadget/AnarkiAppstore/refs/heads/main/ria
 
