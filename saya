@@ -1,0 +1,11 @@
+#EXTM3U 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="105.astro" group-logo="https://rocket-tv.online/Gambar.webp" tvg-name="PRIMA HD" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Astro_Prima_HD.png" ch-number="105",105 Astro Prima
+https://live.rocket-tv.online/Astro_Prima/default_primary.mpd
+
+#EXTHTTP:{"X-Token":"0680242faa43d8eb3e604d5b6c64c9e469387341726f2b4b57796c484b54614d4273376f7a7159686a316a41476d736e613661574c3754597552413d"} #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="108.astro" tvg-name="CITRA HD" group-title="SERANGKAI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-logo="https://rocket-tv.online/Gambar.webp" ch-number="108",108 Astro Citra
+https://live.rocket-tv.online/Astro_Citra/default_primary.mpd
