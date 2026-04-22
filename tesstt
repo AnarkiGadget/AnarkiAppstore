@@ -3,11 +3,11 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-#EXTINF:-1,Test Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=http://abg-ott.xyz/
-#EXTVLCOPT:http-header=x-api-key:uZrjCa7Ydt3m
-http://abg-ott.xyz/e/e2288ccd9c6561375961306ce4f7ef3e9116bb7f840561c586092da3859c69c822c10edc3f1d0d49c86c19722ed1de26e5483a847385fe5ab907ef4012f89ef489dc73ad29c5c39aff2f7a904866e7e34fb04d179c247f16b7585e5c672042d0/aaaeaf7037b8b8c813b5656d64af22d499884d3cd1f4b4805d0ec99764ff34f03cb6b4a9fc88093bea483375461ee1700af9f23395e9dad9717610084a7fa846
+#EXTINF:-1,My Stream
+#EXTVLCOPT:http-user-agent=Lavf/58.12.100
+#EXTVLCOPT:http-header=userid:23723
+#EXTVLCOPT:http-header=usertoken:dbfa49ce6da2acd2bf24c3ac099a8d71-1776876572-20288-23723-api.live.vod.dvr.static.apk
+https://lde7s.tdxwow.com/live/dskmxzaa/2sf2f1e4/index.m3u8
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
