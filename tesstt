@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena Bola BARU
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena tEST
 #KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFhZDI2N2E3LTIxYjctNDYxOS04NmYwLTYyYjQ3MDU4YmI0OSJ9.eyJzdWIiOiI4MzM1MzE4Ny01YzA3LTQ0NjUtYTI1ZC1mZTMyYTZiOGU3NTciLCJpc2UiOnRydWUsImp0aSI6IjgzMzUzMTg3LTVjMDctNDQ2NS1hMjVkLWZlMzJhNmI4ZTc1N18xNzc3Mzc3OTY3X2U9NDs5cmR0OX07fTh5OTcrbTVxd2hlOmJ5NGxpZCs7MWw_YkA7ejpiemV7MH1pbmN5YWFndz5haHtmN3o5Z2MiLCJhaWQiOiJhc3RybyIsImV4cCI6MTc3NzQxNTQwMCwiaWF0IjoxNzc3Mzc3OTY3LCJlbnQiOlt7ImVwaWQiOiJtb2JpbGUiLCJiaWQiOiJsaW5lYXIifV0sImNzbW8iOnsibWFzIjozLCJkdCI6InNtYWxsIiwibWFzZCI6M30sImlzcyI6InNvb2thX0lPUyIsImNpZCI6IjUwOTkifQ.HPVEvUKeeR6EzOQMcNazPNjvER5lRBVACEpy8OxDFGw
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=sooka/3 CFNetwork/3860.400.51 Darwin/25.3.0
