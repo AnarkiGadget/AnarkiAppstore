@@ -2,12 +2,11 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena tEST
+#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena tEST 1
 #KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFhZDI2N2E3LTIxYjctNDYxOS04NmYwLTYyYjQ3MDU4YmI0OSJ9.eyJzdWIiOiI4MzM1MzE4Ny01YzA3LTQ0NjUtYTI1ZC1mZTMyYTZiOGU3NTciLCJpc2UiOnRydWUsImp0aSI6IjgzMzUzMTg3LTVjMDctNDQ2NS1hMjVkLWZlMzJhNmI4ZTc1N18xNzc3Mzc3OTY3X2U9NDs5cmR0OX07fTh5OTcrbTVxd2hlOmJ5NGxpZCs7MWw_YkA7ejpiemV7MH1pbmN5YWFndz5haHtmN3o5Z2MiLCJhaWQiOiJhc3RybyIsImV4cCI6MTc3NzQxNTQwMCwiaWF0IjoxNzc3Mzc3OTY3LCJlbnQiOlt7ImVwaWQiOiJtb2JpbGUiLCJiaWQiOiJsaW5lYXIifV0sImNzbW8iOnsibWFzIjozLCJkdCI6InNtYWxsIiwibWFzZCI6M30sImlzcyI6InNvb2thX0lPUyIsImNpZCI6IjUwOTkifQ.HPVEvUKeeR6EzOQMcNazPNjvER5lRBVACEpy8OxDFGw
 #KODIPROP:mimetype=application/dash+xml
 #EXTVLCOPT:http-user-agent=sooka/3 CFNetwork/3860.400.51 Darwin/25.3.0
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|57833c900c4c437f82daf6785eb6ef36:7bf4663e43cdc277b4ae18219c81d2a1,fb06bb8266fb4a998e7c4e7e90461556:52242587d8106c4b3ed596c7a56b4e28
 https://s81.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch5099-ARENA_BOLA-dash/5099/linear/index.mpd?aws.sessionId=0130aee3-8be8-4716-be09-2f30f3a1c996
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
