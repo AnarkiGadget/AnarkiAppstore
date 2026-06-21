@@ -2,23 +2,8 @@
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="803.astro" tvg-logo="https://pictr.com/images/2025/01/20/xpp6tn.png" group-title="Astro;Sports",Arena tEST 1
-#KODIPROP:inputstream.adaptive.common_headers=authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFhZDI2N2E3LTIxYjctNDYxOS04NmYwLTYyYjQ3MDU4YmI0OSJ9.eyJzdWIiOiI4MzM1MzE4Ny01YzA3LTQ0NjUtYTI1ZC1mZTMyYTZiOGU3NTciLCJpc2UiOnRydWUsImp0aSI6IjgzMzUzMTg3LTVjMDctNDQ2NS1hMjVkLWZlMzJhNmI4ZTc1N18xNzc3Mzc3OTY3X2U9NDs5cmR0OX07fTh5OTcrbTVxd2hlOmJ5NGxpZCs7MWw_YkA7ejpiemV7MH1pbmN5YWFndz5haHtmN3o5Z2MiLCJhaWQiOiJhc3RybyIsImV4cCI6MTc3NzQxNTQwMCwiaWF0IjoxNzc3Mzc3OTY3LCJlbnQiOlt7ImVwaWQiOiJtb2JpbGUiLCJiaWQiOiJsaW5lYXIifV0sImNzbW8iOnsibWFzIjozLCJkdCI6InNtYWxsIiwibWFzZCI6M30sImlzcyI6InNvb2thX0lPUyIsImNpZCI6IjUwOTkifQ.HPVEvUKeeR6EzOQMcNazPNjvER5lRBVACEpy8OxDFGw
-#KODIPROP:mimetype=application/dash+xml
-#EXTVLCOPT:http-user-agent=sooka/3 CFNetwork/3860.400.51 Darwin/25.3.0
-#KODIPROP:inputstream=inputstream.adaptive
-https://s81.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch5099-ARENA_BOLA-dash/5099/linear/index.mpd?aws.sessionId=0130aee3-8be8-4716-be09-2f30f3a1c996
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sooka",Astro Arena BOLA 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe86583eede147d784f898ef566f4dfe:e135c61feb580aec04e916a9ab5af6f9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-#EXTVLCOPT:http-referrer=https://sooka.my/
-https://s81.dp.sooka.my/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/sooka-ch5099-ARENA_BOLA-dash/5099/linear/index.mpd|Authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImFhZDI2N2E3LTIxYjctNDYxOS04NmYwLTYyYjQ3MDU4YmI0OSJ9.eyJzdWIiOiI4MzM1MzE4Ny01YzA3LTQ0NjUtYTI1ZC1mZTMyYTZiOGU3NTciLCJpc2UiOnRydWUsImp0aSI6IjgzMzUzMTg3LTVjMDctNDQ2NS1hMjVkLWZlMzJhNmI4ZTc1N18xNzc3Mzc3OTY3X2U9NDs5cmR0OX07fTh5OTcrbTVxd2hlOmJ5NGxpZCs7MWw_YkA7ejpiemV7MH1pbmN5YWFndz5haHtmN3o5Z2MiLCJhaWQiOiJhc3RybyIsImV4cCI6MTc3NzQxNTQwMCwiaWF0IjoxNzc3Mzc3OTY3LCJlbnQiOlt7ImVwaWQiOiJtb2JpbGUiLCJiaWQiOiJsaW5lYXIifV0sImNzbW8iOnsibWFzIjozLCJkdCI6InNtYWxsIiwibWFzZCI6M30sImlzcyI6InNvb2thX0lPUyIsImNpZCI6IjUwOTkifQ.HPVEvUKeeR6EzOQMcNazPNjvER5lRBVACEpy8OxDFGw
-
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channels",MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#EXTINF:-1 tvg-id="Astro1004" tvg-name="Astro Channel" group-title="Astro", Astro Channel
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.5.1 (Linux;Android 9; km1ax7) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=RasS0C
+#EXTVLCOPT:http-headers=Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiMWYzOGRmMWEtMTBiMy00Yzk2LWJkZTQtOWU0ZDc5NWNkY2Y2IiwicmVmZmVyZXIiOiJSYXNTMEMiLCJkZXZpY2VfaWQiOiJrbTFheDciLCJzZXJ2ZXJfaXAiOiIxMzkuNTkuMjU1LjIyMSIsImlhdCI6MTc4MjA0ODk2MSwiZXhwIjoxNzgyMDcwNTYxfQ._W5fC50mFZDhC_9wWA4QExZjl6LkuG3weYZGEY6d1Eo
+http://streamhubmy.samproject.my.id/proxy/manifest/astro_1004.m3u8
